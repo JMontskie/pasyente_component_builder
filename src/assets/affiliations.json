@@ -1,0 +1,24 @@
+[
+    {
+        "affiliation_request_id": 1,
+        "hcf_code": 123,
+        "hcw_verification_id": 1,
+        "employee_id": {
+            "position": "",
+            "department_assigned_to": 1,
+            "employee_id": 1,
+            "profile_hcw_id": {
+                "profile_hcw_id": 1,
+                "user_hcw_id": "",
+                "first_name": "Joseph",
+                "last_name": "Monton",
+                "middle_name": "",
+                "birthdate": "1997-06-01",
+                "sex_at_birth": "Female",
+                "psgc_id": 307701006,
+                "specialization": "Internal Medicine",
+                "profile_photo": "",
+            },
+        }
+    }
+]
